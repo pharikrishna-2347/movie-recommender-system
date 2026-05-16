@@ -15,7 +15,7 @@ movies=pd.DataFrame(movies_dict)
 similarity=pickle.load(open('similarity.pkl','rb'))
 
 option = st.selectbox(
-    "How would you like to be contacted?",
+    "Select the movie for recommending similar movies!",
     movies['title'].values,
 )
 
