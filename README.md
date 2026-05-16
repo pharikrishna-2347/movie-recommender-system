@@ -9,6 +9,9 @@ The system recommends the top 5 most similar movies based on the movie selected 
 # 🚀 Live Demo
 
 Deployed using Streamlit Community Cloud.
+Try here now : - 
+https://phk-movie-recommender-system-9xxye2tnmdv7kjc4b7y8sj.streamlit.app/
+
 
 ---
 
